@@ -1,2 +1,4 @@
 def insult( name ):
-    print(name + "stinks!\n")
+    # changin the below line
+    print(name + "stinks alot!\n")
+
